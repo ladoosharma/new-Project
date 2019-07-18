@@ -1,0 +1,137 @@
+[
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563441185726,
+            "changeTime": 1563441185726,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563441185726,
+            "changeTime": 1563441185726,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563443798018,
+            "changeTime": 1563443798018,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563441185729,
+            "changeTime": 1563441185729,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563443798091,
+            "changeTime": 1563443798091,
+            "contentHash": "f4283b2a9386895eac312ee8797dfffaa0092535",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\classes\\MyClass.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\classes\\MyClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1563443798090,
+            "changeTime": 1563443798090,
+            "contentHash": "8c8c1720142ad9c6a07db973265cc444cce75528",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\classes\\MyClass.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\classes\\MyClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1563443798092,
+            "changeTime": 1563443798092,
+            "contentHash": "405fc1d67966dc79382c93c413d40591fa8f4455",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563441185729,
+            "changeTime": 1563441185729,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\g.ag.sharma\\myAllNewCLIProject\\webcomponents\\webComponentTutorial\\new-Project\\new-sfdxPrij",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1563444363300,
+            "changeTime": 1563444363300,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
